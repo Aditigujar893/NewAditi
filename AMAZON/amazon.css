@@ -1,0 +1,414 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-
+
+
+}
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+    display: flex;
+    flex:column;
+    flex-basis:100px;
+
+}
+.nav-logo{
+    width:100px;
+    height: 57px;
+}
+.logo{
+    background-image: url("logo3.jpg");
+    height: 50px;
+    width:100px;
+    background-size: cover;
+}
+.nav-logo{
+    border:1.5px solid transparent;
+    
+}
+.nav-logo:hover{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+.add-icon{
+    display: flex;
+    
+}
+i{
+    margin: 5px;
+}
+.nav-address{
+    border: 1px solid transparent;
+    padding:11px;
+    border-radius:10px ;
+    margin-left: 10px;
+}
+.nav-address:hover{
+    border: 1px solid white;
+    margin-top: 3px;
+}
+.add-1{
+    padding-left: 15px;
+    font: 12px "Amazon amber" Arial,sans-serif;
+    color: #cccccc;
+
+
+}
+.add-2{
+    color: #ffffff;
+    font: 14px "Amazon amber" Arial,sans-serif;
+    font-weight: bold;
+}
+.searchbox{
+    margin-top: px;
+    padding:10px;
+    margin-left: 20px;
+    display:flex;
+    border: 1.5px solid transparent;
+
+}
+.searchbox:hover{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 3px;
+    margin-
+}
+
+
+.select{
+    background-color: #f3f3f3;
+    width:50px;
+    text-align: center;
+    height:35px;
+}
+.input{
+    height:29px ;
+    width:350px;
+
+}
+.icon{
+
+    border: 1.5px solid white;
+    height:31px;
+    width:32px ;
+    text-align: center;
+    background-color: rgb(229, 156, 73);
+    border:solid transparent
+}
+.flag{
+    height:11px ;
+    width: 17px;
+    background-image: url("usa.png");
+    background-size: cover;
+    margin-top: 24px;
+    }
+.lang
+{
+    color:white;
+    background-color: #0f1111;
+    border-color: transparent;
+    font-weight: bold;
+    font-size: medium;
+}
+
+
+.flags{
+    display: flex;
+    border:solid 1px transparent;
+    margin-left: 20px;
+}
+.flags:hover{
+
+    border:solid 1px white;
+    border-radius: 10px;
+    margin-top: 3px;
+
+}
+.navbar2{
+    background-color: #0e2941;
+    height: 40px;
+    display: flex;
+    font-size: 13px;
+    gap: 90px;
+}
+.acco{
+    font-weight: bold;
+    font-size: small;
+
+
+
+}
+.hello{
+    font-size: smaller;
+    font: Arial sans-serif;
+
+
+}
+.accou{
+    display: flex;
+
+
+
+}
+.acc{
+    height:20px;
+    width:125px;
+    color: white;
+    background-color: #0f1111;
+    border-color: transparent;
+    font-weight: bold;
+}
+.account{
+    padding:10px;
+    margin-left: 10px;
+    border:solid 1px transparent;
+    margin-left: 20px;
+
+}
+.account:hover{
+    border: solid 1px white;
+    border-radius: 10px;
+    margin-top: 3px;
+}
+.returns{
+    margin-top: 5px;
+    margin-left: 22px;
+    border:solid 1px transparent;
+    border-radius:10px;
+    padding: 6px;
+    
+}
+.returns:hover{
+    border-color: white;
+}
+.return{
+    font-size:smaller;
+    font-weight: ;
+
+}
+.order{
+    font-weight:bold;
+    font-size: medium ;
+}
+.cart{
+    display: flex;
+    margin-top:5px;
+    margin-left: 20px;
+    border: solid 1px transparent;
+
+}
+.cart:hover{
+    border-radius: 10px;
+    border-color: white;
+}
+.cart1{
+    padding:4px;
+    margin-top: 13px;
+    font-weight:bolder;
+}
+.icon8{
+    background-image: url("cart.webp");
+    background-size: cover;
+    height:50px;
+    width: 70px;
+    margin-bottom: 25px;
+}
+
+.a{
+
+    padding: 10px;
+    border: 1px solid transparent;
+    color:rgb(213, 218, 218);
+    font-weight:bolder;
+}
+.a:hover{
+    border-color: white;
+
+}
+.web{
+    background-color:;
+    background-size: cover;
+}  
+.amazon{
+    background-image: url("cover5.jpg");
+    background-position: right bottom,left top;
+    background-color: bisque;
+    height:1300px;
+
+
+}
+.beauty-product{
+    padding-left: 450px;
+    padding-top: 100px;
+    height:100px;
+    color: rgb(65, 10, 10);
+    background-color:(250, 186, 159, 0.984);
+   
+    font:Arial;
+}
+.beauty{
+    font-weight: bolder;
+    font-size: 30px;
+    font-family:Arial;
+    
+
+}
+.explore{
+    font-family: Arial;
+}
+.line{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 25px;
+    padding-left:80px;
+    padding-top:28px ;
+    color:brown;
+    font:Arial;
+    height:50px;
+    display: flex;
+}
+.line2{
+    color:rgb(82, 82, 171);
+}
+.line2:hover{
+    color:rgb(6, 9, 64);
+    text-decoration:underline;
+
+}
+.row1{
+    display: flex;
+
+}
+.box81{
+    background-color: white;
+    height: 380px;
+    margin-left:30px;
+    margin-top: 30px;
+    width:365px;
+}
+.refresh{
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial;
+    margin-top:20px ;
+    margin-left: 20px;
+    color: #532d2d;
+
+
+}
+.refresh1{
+    display: flex;
+}
+.refresh2{
+    display: flex;
+}
+.box1-image1{
+    height:110px;
+    width:152px;
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.box1-image2{
+    height:110px;
+    width:152px;
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+
+
+.box1-image3{
+    height:110px;
+    width:152px;
+    background-size: cover;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.box1-image4{
+    height:110px;
+    width:152px;
+    background-size: cover;
+    margin-bottom:10px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.name1{
+    margin-left:21px ;
+    font-size: 12px;
+    font: Arial;
+    color:rgb(203, 82, 82);
+    
+    
+}
+.name2{
+    margin-left: 21px;
+    font-size: 12px;
+    font: Arial;
+    color:rgb(203, 82, 82);
+}
+.name3{
+    margin-left:9px;
+    font-size: 12px;
+    font: Arial;
+    color:rgb(203, 82, 82);
+
+}
+.name4{
+    margin-left: 9px;
+    font-size: 12px;
+    font: Arial;
+    color:rgb(203, 82, 82);
+}
+.box1-a{
+    margin-bottom: 8px;
+}
+
+.more{
+    margin-left:20px;
+    margin-top: 10px;
+    margin-right:20px;
+    font-size: 12px;
+    color: rgb(175, 92, 111);
+
+}
+.more:hover{
+    color:rgb(41, 40, 40);
+    text-decoration:underline ;
+}
+.box82{
+    background-color: white;
+    height: 380px;
+    margin-left:30px;
+    margin-top: 30px;
+    width:365px
+}
+.box83{
+    background-color: white;
+    height: 380px;
+    margin-left:30px;
+    margin-top: 30px;
+    width:365px
+}
+
+
+
+
+
+
+
+
+
+
+
+
